@@ -1,8 +1,8 @@
 
 
-##How to import this lib
+## How to import this lib
 ***
-####Gradle
+#### Gradle
 Step 1. Add the JitPack repository to your build file
 
 ```
@@ -24,7 +24,7 @@ dependencies {
 
 <br>
 
-####Marven
+#### Marven
 Step 1. Add the JitPack repository to your build file
 
 ```
